@@ -51,7 +51,7 @@ El gobierno convence a la población de que el mar blanco se ha extinguido por c
 la historia se desarrolla en un mundo alternativo que es un gran desierto negro donde escasean los medios
 
 ### Conflicto
-sobrevivir al desierto, fenómenos desconocido.
+Decidir entre ir al mar blanco u obedecer las reglas del líder e ir a Zhatium
 
 
 
@@ -86,7 +86,7 @@ Lista completa de emojis de markDown - https://gist.github.com/rxaviers/7360908)
 
 
 
-Febrero, 202X
+Febrero, 2022
 
 Proyecto dentro de la serie [HRUN Story](https://github.com/mgea/storytelling_21/blob/master/What_is_a_HRUN_story.md). 
 Proyectos seleccionados de  [2021](https://github.com/mgea/storytelling/blob/master/2021/readme.md) / [2020](https://github.com/mgea/storytelling/blob/master/2020/readme.md)  / 
