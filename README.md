@@ -16,9 +16,9 @@ Es la historia de Lia una chica que su objetivo es llegar al mar blanco del cual
 
 
 Nombre: 
-Lia 
-Zak 
-Noa
+Lia Alora 
+Zak Mith    
+Noa Blunt
 
 
 ### Historia
